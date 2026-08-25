@@ -35,7 +35,7 @@ spotify_data_analytics-main/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/cyrildude77/spotify_data_analytics.git
+git clone https://github.com/Bharath19bh/Soptify-data-Analyst.git
 cd spotify_data_analytics
 
 2️⃣ Install Dependencies
